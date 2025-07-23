@@ -10,7 +10,7 @@ This project integrates live wildfire and earthquake data from **NASA FIRMS** an
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard/screenshots/dashboard_preview.png)
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/panchami.baleri/viz/INFO_7374_Dashboard/FInalDashboard)
 
 ---
 
