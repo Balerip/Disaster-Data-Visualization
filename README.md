@@ -66,6 +66,8 @@ Earthquake Visuals Explained
 ---
 
 Fire Visuals Explained
+
+
 2.⁠ ⁠Global Map Fire:
 
 Next, on the Global Fire Map, each orange dot represents a detected fire event, plotted using satellite data.
