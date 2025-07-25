@@ -68,14 +68,14 @@ Earthquake Visuals Explained
 Fire Visuals Explained
 
 
-2.⁠ ⁠Global Map Fire:
+### 2.⁠ ⁠Global Map Fire:
 
 Next, on the Global Fire Map, each orange dot represents a detected fire event, plotted using satellite data.
 •⁠  ⁠This map gives a more granular view, showing exactly where fires have occurred, not just which countries are affected.
 •⁠  ⁠Notice the dense clusters of fires in central Africa, Southeast Asia, and Australia. These clusters can indicate either seasonal burning, agricultural practices, or extreme wildfire events.
 •⁠  ⁠This level of detail is especially useful for researchers and disaster managers who need to pinpoint specific locations for intervention or further study.
 
-3.⁠ ⁠Top Countries
+### 3.⁠ ⁠Top Countries
 
 Moving on to the Top Countries by Fire Count bar chart, we can see the countries with the highest number of fire detections.
 •⁠  ⁠South Sudan leads with the most fire events, followed by the Central African Republic, India, and several other African and Asian countries.
@@ -83,14 +83,14 @@ Moving on to the Top Countries by Fire Count bar chart, we can see the countries
 •⁠  ⁠Such insights are crucial for allocating international aid, focusing research, or launching awareness campaigns in the most affected regions.
 
 
-4.⁠ ⁠Trend
+### 4.⁠ ⁠Trend
 
 Here we have the Fire Trend in the United States over time, shown as a line chart of maximum fire brightness.
 •⁠  ⁠The chart tracks the intensity of fires detected each day from January to April.
 •⁠  ⁠We see that fire activity is persistent, with several peaks and valleys, indicating periods of higher and lower fire intensity.
 •⁠  ⁠Monitoring these trends helps agencies anticipate when resources might be most needed and can reveal the impact of weather, policy, or prevention efforts.
 
-5.⁠ ⁠Brightness vs frp
+### 5.⁠ ⁠Brightness vs frp
 Finally, the Brightness vs Fire Radiative Power (FRP) scatter plot lets us explore the relationship between a fire’s brightness (how hot or intense it is) and the energy it releases.
 •⁠  ⁠Each dot represents a fire event, colored by continent.
 •⁠  ⁠As expected, we see a positive trend: higher brightness generally means higher FRP, which indicates more intense and potentially more damaging fires.
